@@ -20,7 +20,8 @@
                 "tag": [
                     "Unit42.IPAddressLookup",
                     "Unit42.InitialSystemDataEnumeration",
-                    "Unit42.GandCrab"                    
+                    "Unit42.GandCrab",
+                    "Guy.Test"
                 ],
                 "tag_groups": [
                     "Ransomware"
