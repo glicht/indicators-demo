@@ -1,0 +1,3118 @@
+{
+    "hits": [
+        {
+            "_id": "a592722530efd42be4f1cf912db0a06bccb7a2c341f208b85076eddff4d16b6b",
+            "_source": {
+                "create_date": "2020-02-28T00:20:44",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:27:53",
+                "imphash": "8789b700fb185b521d8c4230c8ca90ce",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "b6cb675d557ccf9d7bd33c13fa69eb1c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "537ce78cbbbeccbc3168493347e0c6f51197e4c9",
+                "sha256": "a592722530efd42be4f1cf912db0a06bccb7a2c341f208b85076eddff4d16b6b",
+                "size": 301915,
+                "ssdeep": "6144:IvSgnk/NgSJqzhUU2fa1WKXIOTzjELEJa:eSpJShU80XOTUua",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-04-18T03:22:52"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "dccdbc4ca1dcf53293c7dde501c9ecd1ed04beb4d8a39bf6c02c09108e7a4ad9",
+            "_source": {
+                "create_date": "2020-02-28T00:22:03",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:27:39",
+                "imphash": "2c2ed3b7708fb53e5b80ff09a18fbe43",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e66f1a24b724faed1fb85c1b09391087",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a0b9744983bf1959c6195d06c284252044702edf",
+                "sha256": "dccdbc4ca1dcf53293c7dde501c9ecd1ed04beb4d8a39bf6c02c09108e7a4ad9",
+                "size": 375592,
+                "ssdeep": "3072:Wae7OubpGGErCbuZM4EQrjo7vgHJJPPIgfBF4mvcTd9sRxr:WacxGfTMfQrjoziJJHI6BDcTd9I",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.GatorAdware"
+                ],
+                "tag_groups": [
+                    "PotentiallyUnwantedProgram"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2002-04-23T02:20:57"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "eef43d793765b56c9b7d062dcc93b13c5ae95afbabcfda1e2e3d426090d39836",
+            "_source": {
+                "create_date": "2020-02-28T00:21:55",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:27:59",
+                "imphash": "24b60c57cc33f3e633431b7ad497fda7",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "9ab532c700c70d2aca0da0e7913b37f2",
+                "region": [
+                    "us"
+                ],
+                "sha1": "e1af7128ff8ee8ef1544645c6fc68c648420c0e0",
+                "sha256": "eef43d793765b56c9b7d062dcc93b13c5ae95afbabcfda1e2e3d426090d39836",
+                "size": 261029,
+                "ssdeep": "6144:5dkkkkkkk0nJIU/8efhgHg2LIRCyCVw8ub:5H6ShgHfIHCP+",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "626a2bf3ce5b193afe22458280181297477cfb60306ee3c90319a0235a48cdf7",
+            "_source": {
+                "create_date": "2020-02-28T00:21:21",
+                "filetype": "PE64",
+                "finish_date": "2020-02-28T00:28:01",
+                "imphash": "e4290fa6afc89d56616f34ebbd0b1f2c",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "5d90e8b60100f53de9cb547a102fc0b5",
+                "region": [
+                    "us"
+                ],
+                "sha1": "38036815790a54f4066e8a260530978f71822a0d",
+                "sha256": "626a2bf3ce5b193afe22458280181297477cfb60306ee3c90319a0235a48cdf7",
+                "size": 1781381,
+                "ssdeep": "49152:Lz071uv4BPMkibTIA5lCx7kvRWa4pX6/zlO:NABv",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.CoinMiner"
+                ],
+                "tag_groups": [
+                    "LinuxMalware",
+                    "CryptoMiner"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-09-04T19:31:32"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "f831981411a17f22ded489613f7a3e0cf203cb78e0001a40920cf4092482618b",
+            "_source": {
+                "create_date": "2020-02-28T00:18:54",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:28:07",
+                "imphash": "799648032be17bf6d9bce0159e2ededa",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "5fb044790a2b3dca93fa5958de025218",
+                "region": [
+                    "us"
+                ],
+                "sha1": "680612586b871a0baf1bb02fe4683a186c0ee1b0",
+                "sha256": "f831981411a17f22ded489613f7a3e0cf203cb78e0001a40920cf4092482618b",
+                "size": 832300,
+                "ssdeep": "12288:smqslOszILWPcIHqUXAx4C5I3Nf/mW509hDj+f3aDtf088TqDkEv8Dd:smI2cUDvNHxK/jWmvcDd",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.Unruy"
+                ],
+                "tag_groups": [
+                    "Downloader"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2009-12-11T21:31:37"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "cb2f94ef1fe1cfc75188f97dcf126c4d519d7dc221490f017ad01d6d741204f5",
+            "_source": {
+                "create_date": "2020-02-28T00:19:40",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:27:56",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "bb0fc5b2b1690b90dc2e7c19de13d41d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "f7c216ea039fe03556abfe7f0dce6298a15fe7ce",
+                "sha256": "cb2f94ef1fe1cfc75188f97dcf126c4d519d7dc221490f017ad01d6d741204f5",
+                "size": 879075,
+                "ssdeep": "24576:JlOTZA9uOnQ0oTRqFSGB2uJ2s4otqFCJrW9FqvSbqsHasgXhFHDAGtlRXZ+CP63Y:JUTZA9uOnQ0oTR/8",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "7cbfe595a174360bd61ba71eba63a824a4ee00c8ebcb667e6360479900952de9",
+            "_source": {
+                "create_date": "2020-02-28T00:22:03",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:28:03",
+                "imphash": "6786ed16c434f43e76d0897f96e17f6b",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "ecc9d8feb95a783ac0e253ae40366cd6",
+                "region": [
+                    "us"
+                ],
+                "sha1": "6e196ae849d7e7a88afe22b33d217b13b43f8157",
+                "sha256": "7cbfe595a174360bd61ba71eba63a824a4ee00c8ebcb667e6360479900952de9",
+                "size": 86052,
+                "ssdeep": "1536:g7wc1aGNC0klI7CPpIFa6ksXl4/XfNfKN9j2roB8TVPtzV5D5M9D:g7wc1aOCo7CxI4sV4vfNEj2r08vzV5Du",
+                "tag": [
+                    "Unit42.ModifyWindowsFirewall",
+                    "Commodity.MyDoom"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1970-01-01T00:00:00"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "5ce7227e82c0faefa150b415ae8cdae49b64f14322b99766a863108800c3f8a9",
+            "_source": {
+                "create_date": "2020-02-28T00:22:31",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:27:46",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "8a807700b2016a126c3f7f77183dadc0",
+                "region": [
+                    "us"
+                ],
+                "sha1": "b57f50ec4613ece53a644874a70af93284487284",
+                "sha256": "5ce7227e82c0faefa150b415ae8cdae49b64f14322b99766a863108800c3f8a9",
+                "size": 866664,
+                "ssdeep": "24576:KjjIk/s3K12W/mnNOY9qOWz3XXLWAovXt:KjUkN3WOYzoXKzt",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-06-17T12:38:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "5b22478933ee685bd571e22572b02da913b51f5777eeb31a6c913763ee23db1a",
+            "_source": {
+                "create_date": "2020-02-28T00:00:02",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:08:59",
+                "imphash": "676f4bc1db7fb9f072b157186a10179e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "0fbafebecf9580f35f106336b1b14830",
+                "region": [
+                    "us"
+                ],
+                "sha1": "6c3a644169d2000001da27ea34d85f25cc5d1376",
+                "sha256": "5b22478933ee685bd571e22572b02da913b51f5777eeb31a6c913763ee23db1a",
+                "size": 3024671,
+                "ssdeep": "24576:ATU7AAmZZcVKfIxTiEVc847flVC6faaQDbGV6eH81k6IbGD2JTu0GoZQDbGV6eHI:ATU7AAmw4gxeOw46fUbNecCCFbNecH",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.WarzoneRAT"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-05-29T13:49:02"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "70ab0c4c66b4e7a76ed2e7302ca62ccd92c2d7b365d9e5203a57341f0beb0f7a",
+            "_source": {
+                "create_date": "2020-02-28T00:21:59",
+                "filetype": "PE64",
+                "finish_date": "2020-02-28T00:28:54",
+                "imphash": "e4290fa6afc89d56616f34ebbd0b1f2c",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "4e5ea366eae69b08582936fc2642eb14",
+                "region": [
+                    "us"
+                ],
+                "sha1": "37a3e67e755f09d25383ad136b78c2393f60e61d",
+                "sha256": "70ab0c4c66b4e7a76ed2e7302ca62ccd92c2d7b365d9e5203a57341f0beb0f7a",
+                "size": 1624015,
+                "ssdeep": "24576:zv3/fTLF671TilQFG4P5PMkibTJH+2Q/ynKeWY1s38kQu12bPxvyuzaBgJ9pcFt9:Lz071uv4BPMkibTIA5I4TNrpDGoc",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.CoinMiner"
+                ],
+                "tag_groups": [
+                    "LinuxMalware",
+                    "CryptoMiner"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-09-04T19:31:32"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c31674403251a9d82484650e4d312956a03249b9fccc327803e7b7c18e26a0e6",
+            "_source": {
+                "create_date": "2020-02-28T00:20:52",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:29",
+                "imphash": "5aa33c577ffd8431ff254de85dee5e7b",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "7869781cef69db9a56f1ff9aa8ac1baa",
+                "region": [
+                    "us"
+                ],
+                "sha1": "6efe7e2188f59065d62a2c10682c92fc9da13b92",
+                "sha256": "c31674403251a9d82484650e4d312956a03249b9fccc327803e7b7c18e26a0e6",
+                "size": 264879,
+                "ssdeep": "3072:zPP3tGXRvjxCb5NgXDY7uSlkJcUa7kYQTcqW2NdQQGH/UDhSCUc4aqTBW:DIlKgzelZNQSBQGH/CSpWqT",
+                "tag": [
+                    "Unit42.MPressPacked"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-09-27T04:51:42"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "6e45b8aa5b20d504c71f9f0cece8fe31cce43cfbcaac9c827f283ba47ad5fc7e",
+            "_source": {
+                "create_date": "2020-02-28T00:21:24",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:42",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "603b463171d769cf138b3316f90aa7c0",
+                "region": [
+                    "us"
+                ],
+                "sha1": "58f984e19f0e4963899e7780211db8c5498b7d4f",
+                "sha256": "6e45b8aa5b20d504c71f9f0cece8fe31cce43cfbcaac9c827f283ba47ad5fc7e",
+                "size": 557442,
+                "ssdeep": "6144:yAWkVaVV9T6xDfSWJb3T/oz9d5MQP7WcWZWO/+XqESqEehbbfGYiApGmL6FRQ:JgV/21Jl035M2WzWO/+XkqEIbfGPF6",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "b3ba9aa97facb92fdc44967f443734cc60bc1037a37d20358a9897606e854ffc",
+            "_source": {
+                "create_date": "2020-02-28T00:24:18",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:56",
+                "imphash": "120aa51067095eec3023188f73fd5272",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d1130ae573c02842fe99e61a6a07f5e8",
+                "region": [
+                    "us"
+                ],
+                "sha1": "0d11fe9fb550e50fd8e08da20c6dd1d4b178436d",
+                "sha256": "b3ba9aa97facb92fdc44967f443734cc60bc1037a37d20358a9897606e854ffc",
+                "size": 1725441,
+                "ssdeep": "1536:w49IoH+qGPLCEMWbImFe7fGfWXfpf3LmwmbvjUgfO+Cj508EAOsU:ZH+TPLCEM7mIVPL2boyCj50ZAOsU",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-10-31T14:58:54"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "044e0d259ad701b2766b50a12d79ffa77e5864d9aae228e8359f415625999926",
+            "_source": {
+                "create_date": "2020-02-28T00:20:42",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:36",
+                "imphash": "e0108c6f760b9bf79f1f3e8200481dd8",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a694342a0569f1e1295820dd8be00618",
+                "region": [
+                    "us"
+                ],
+                "sha1": "5f5506bde3847e1afb02e4c36aa77941e6f6077c",
+                "sha256": "044e0d259ad701b2766b50a12d79ffa77e5864d9aae228e8359f415625999926",
+                "size": 975180,
+                "ssdeep": "24576:yxb45l9pkQeN/7DHT9+FCIiIc4rTxWQ1PhoWmULdA9:yxOb6ph7jKCIiIf/sQfoWmUBu",
+                "tag": [
+                    "Unit42.RenameOnReboot",
+                    "Unit42.UPXPacked",
+                    "Commodity.Valla",
+                    "Commodity.Xolxo"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "22591b5e7cf99b344dde638318812a1487f51147d724bcdd3bd26869ce85b88e",
+            "_source": {
+                "create_date": "2020-02-28T00:24:15",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:51",
+                "imphash": "1d8a9fa1df68905ca65ac0a36686d3a6",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "87d28140e98d9f0abf3ca91d4c79cf6e",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a9d4ee38743d54a782426d3d9ba345936efe6a9b",
+                "sha256": "22591b5e7cf99b344dde638318812a1487f51147d724bcdd3bd26869ce85b88e",
+                "size": 375134,
+                "ssdeep": "1536:4XBYjfC24mFVsIgvo3X4iZpTha5VlA8mx7aoL8dPF:4X+0mFmIgvo4iZhha5rEaoL8xF",
+                "tag": [
+                    "Unit42.ModifyWindowsFirewall",
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.ResolvesParkedDomain"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2046-12-31T01:24:06"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "91b8db0ddead26a73af7d2f1c47645c3afa5c0c968778ce3777a08ac6c6141c7",
+            "_source": {
+                "create_date": "2020-02-28T00:22:22",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:45",
+                "imphash": "1444cd623c32f23d4d787a4adf1adfef",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "f24992df96f506964a07f9d8ad276a4c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "47f286e482cfadf45f7d699009fc0792a130f0ed",
+                "sha256": "91b8db0ddead26a73af7d2f1c47645c3afa5c0c968778ce3777a08ac6c6141c7",
+                "size": 325129,
+                "ssdeep": "6144:wztq4dVemj0nT1uCcl2nHjn7r4qdnHfwdJOE:8dMJpu5kHbYqJHfusE",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.RunOnce",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-06-10T03:04:21"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "29a7fae2a39606c313ee49906b4ac9049e5368d2d09918339300f437948442f8",
+            "_source": {
+                "create_date": "2020-02-28T00:10:36",
+                "filetype": "Android DEX",
+                "finish_date": "2020-02-28T00:11:32",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "06168e6872423cb6ae75acd272babd08",
+                "region": [
+                    "us"
+                ],
+                "sha1": "cbadf22397492ab6e7ed2ce02c39c09240c85b69",
+                "sha256": "29a7fae2a39606c313ee49906b4ac9049e5368d2d09918339300f437948442f8",
+                "size": 902996,
+                "tag": [
+                    "Unit42.AccessSMS"
+                ],
+                "tag_groups": [
+                    "MobileMalware"
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "63ccced636e361db9469dd3582655c70a86d074dd574ee72196e14a72fa7fc3f",
+            "_source": {
+                "create_date": "2020-02-28T00:24:06",
+                "filetype": "PE64",
+                "finish_date": "2020-02-28T00:29:42",
+                "imphash": "09965c276d620e5917bed399e0fe50ac",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "b54b601643e8141f974a7077ce86ee85",
+                "region": [
+                    "us"
+                ],
+                "sha1": "3806242b3eb67a041374b08b76daf1c1362bb984",
+                "sha256": "63ccced636e361db9469dd3582655c70a86d074dd574ee72196e14a72fa7fc3f",
+                "size": 2701746,
+                "ssdeep": "49152:iAcGHC2ZUZ+umWeahNLJpVCs+DkTLNN9w5mUh1q3BCW6efsL:iAqGwPNeDMN9w5fqRCWJfs",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.AutoIT",
+                    "Unit42.RunOnce",
+                    "Unit42.jhProtominer"
+                ],
+                "tag_groups": [
+                    "CryptoMiner"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-01-29T21:32:45"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "2ca735c984c250c9913198b63d8d4ff84c1cf243391f09fad24e9a976c8aaf93",
+            "_source": {
+                "create_date": "2020-02-28T00:24:03",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:48",
+                "imphash": "87bed5a7cba00c7e1f4015f1bdae2183",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d20a6e6286c48e8bf595d88b3d1ff686",
+                "region": [
+                    "us"
+                ],
+                "sha1": "919a8143a6bb6b6cab6a4bf0faa598c380f93ed0",
+                "sha256": "2ca735c984c250c9913198b63d8d4ff84c1cf243391f09fad24e9a976c8aaf93",
+                "size": 57913,
+                "ssdeep": "1536:CJ1o/+255/QzwImX7YMlBQKaA0EMLNlOjennD:B/+WYzw3EIQrLNUja",
+                "tag": [
+                    "Unit42.FewIATEntries"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2004-11-26T16:28:28"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "67fc3317c244d5c36f89cbbb4be031c503528f38ffac8e423bb432a5ff48f1e7",
+            "_source": {
+                "create_date": "2020-02-28T00:24:08",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:11",
+                "imphash": "406c785a6e2c6970c1e8ed62877e197b",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "1f5198a7c116087939707136cb8fbe03",
+                "region": [
+                    "us"
+                ],
+                "sha1": "383f573dc4bd963cf8307e2a85fb9ae82f975924",
+                "sha256": "67fc3317c244d5c36f89cbbb4be031c503528f38ffac8e423bb432a5ff48f1e7",
+                "size": 310328,
+                "ssdeep": "3072:ThOmTsF93UYfwC6GIout0fmCiiiXAsACF486jJSp1BxIt0phb3mRra8:Tcm4FmowdHoSgWrXD486jJq1BStikrN",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.Eydrop"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2015-01-27T03:56:27"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "08d5a8e878aedc812b8d6a4cd4f176736cc65d8ae10cd96b24e3809fbe0e20e1",
+            "_source": {
+                "create_date": "2020-02-28T00:21:59",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:38",
+                "imphash": "5f15908da5076b9866aa29d4bc303edd",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a95476ec17f4fcd0017d5b7fc92d53a0",
+                "region": [
+                    "us"
+                ],
+                "sha1": "f3fadce600c47d534f39a012fa5e01fb70ff6f6a",
+                "sha256": "08d5a8e878aedc812b8d6a4cd4f176736cc65d8ae10cd96b24e3809fbe0e20e1",
+                "size": 54630,
+                "ssdeep": "768:WtUpFSmTZ9hPsED3VK2+ZtyOjgO4r9vFAg2rqIK2isJR:3pFSk9hYTjipvF2Gsv",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-18T08:29:22"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "f6118f14b151a8acdc02c1903327f1e813de4a9e5a8c1d8be2bfd538177ee985",
+            "_source": {
+                "create_date": "2020-02-28T00:01:24",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:11:01",
+                "imphash": "d2bf2bc66c5e49a85254cd29b19046bd",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "b23fc33de8b96ec0da034c27fd74bb2b",
+                "region": [
+                    "us"
+                ],
+                "sha1": "30755906dc8172dbda087a953af274343e97c0b9",
+                "sha256": "f6118f14b151a8acdc02c1903327f1e813de4a9e5a8c1d8be2bfd538177ee985",
+                "size": 184104,
+                "ssdeep": "3072:8EhWbcpqIiEhWbcpqIDEhWbcpqIiEhWbcpqIj:8EicAHEicA6EicAHEicAe",
+                "tag": [
+                    "Unit42.InvokeWindowsShellCommand",
+                    "Unit42.RenameOnReboot",
+                    "Unit42.ImageFileExecutionOptionsPersistence",
+                    "Unit42.ModifyShellOpenCommand",
+                    "Commodity.Jadtre",
+                    "Commodity.Valla"
+                ],
+                "tag_groups": [
+                    "Worm",
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-04-20T10:22:04"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "542abfb34bd202247a0e184d954d5ab849c2cd4acf7d5b4cb273f9eec93492f2",
+            "_source": {
+                "create_date": "2020-02-28T00:23:52",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:18",
+                "imphash": "352063077f27a851dc2b08e15f08105e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "3325f84e38ffd39ccc6efbfc3a4c0a9c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "85cd758bf1a4eb8e85a1f1714f5674195538b504",
+                "sha256": "542abfb34bd202247a0e184d954d5ab849c2cd4acf7d5b4cb273f9eec93492f2",
+                "size": 87536,
+                "ssdeep": "1536:/s2OpUqBA6pkuTHQ0cIrf+7LYsF03RYSYhM9l8yDI15XygDo:/ImRWTTpc627LXFm6+9l8nygDo",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-12-08T05:58:29"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "69f54e9060b0d918d5fcfc43a2d028196df0b0f407a83ff305b23c4aa3ce2b17",
+            "_source": {
+                "create_date": "2020-02-28T00:22:11",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:13",
+                "imphash": "5aa33c577ffd8431ff254de85dee5e7b",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "554f71bc255c6bc2b439e320b58a159d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "072a921199c798b9a0138b5e454a829feae052e7",
+                "sha256": "69f54e9060b0d918d5fcfc43a2d028196df0b0f407a83ff305b23c4aa3ce2b17",
+                "size": 273867,
+                "ssdeep": "3072:/PP3tGXRvjxCb5NgXDY7uSlkJcUa7kYQTcqW2NdQQGH/UDhSCUc4aqTBrgmQ+:3IlKgzelZNQSBQGH/CSpWqTKmQ",
+                "tag": [
+                    "Unit42.MPressPacked"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-09-27T04:51:42"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "a9202029e7521a5ce14fe1b36a0373a9be1f7c910c9f6127359b46a9b393a5a5",
+            "_source": {
+                "create_date": "2020-02-28T00:23:22",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:25",
+                "imphash": "25a354ef42e3199f48f46c425cd503de",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "46804fd6392f5e8611d3477009612fdf",
+                "region": [
+                    "us"
+                ],
+                "sha1": "e07644bead352f3045ba9eff9c34b62314ef44f3",
+                "sha256": "a9202029e7521a5ce14fe1b36a0373a9be1f7c910c9f6127359b46a9b393a5a5",
+                "size": 272909,
+                "ssdeep": "3072:/f7t9cMXByJMqzp2HlU5G8NjxbOFqrIXq/clBqwumoVKjnw/ZKwBHDfKdCCW:/fFXcMqzAz8NjxbbGqElBzToKjWgED46",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-04-18T04:05:41"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c89d7e4763e0a7ee74eb03d446ae76fbf34da9c56e581dc79ed449fc77464802",
+            "_source": {
+                "create_date": "2020-02-28T00:21:54",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:02",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "50851db6a164df6541c60f66eeeea176",
+                "region": [
+                    "us"
+                ],
+                "sha1": "92272e23a34b8e490621676b1e2f6aa07498733a",
+                "sha256": "c89d7e4763e0a7ee74eb03d446ae76fbf34da9c56e581dc79ed449fc77464802",
+                "size": 556762,
+                "ssdeep": "6144:yAWkVaVV9T6xDfSWJb3T/oz9d5MQP7WcWZWO/+XqESqEehbbfGYiApGmL6Fy:JgV/21Jl035M2WzWO/+XkqEIbfGPFy",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d3df6d449439f43fa53ee3e3ff53023077cb0f2846f7bab6a5a666f2c6b08a37",
+            "_source": {
+                "create_date": "2020-02-28T00:10:24",
+                "filetype": "Android DEX",
+                "finish_date": "2020-02-28T00:11:33",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e84c61e26271214523d4d97d90781ddd",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a685053b38f46a298c7bc52e5e02890991e25bd4",
+                "sha256": "d3df6d449439f43fa53ee3e3ff53023077cb0f2846f7bab6a5a666f2c6b08a37",
+                "size": 4895144,
+                "tag_groups": []
+            },
+            "visible": true
+        },
+        {
+            "_id": "01e71c3ac11e54065e2a384fa8024adfc324fa717d9a5753623f44d8465d0e57",
+            "_source": {
+                "create_date": "2020-02-28T00:05:35",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:11:53",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "4c94331333ddee7d7351ff88b0eccfa7",
+                "region": [
+                    "us"
+                ],
+                "sha1": "40a2e028ce4162f5cb629538ffbd105b6a78a61f",
+                "sha256": "01e71c3ac11e54065e2a384fa8024adfc324fa717d9a5753623f44d8465d0e57",
+                "size": 1982969,
+                "ssdeep": "49152:VJFKwJBnxUxFyOdq1YogW8uHMbwFS3GkbNwos6OOX37fWl8:xK+BGLVogTuHMAmlX37fWO",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "fa4cb3e3b3bbe782e4d213ab151b9e7a56545ff413a144917edaccb0ba6f3a40",
+            "_source": {
+                "create_date": "2020-02-28T00:22:56",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:12",
+                "imphash": "fc3bae53ebbec53f821d8cc741d4579e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a0200acdd1dcb98338465c9b532b257c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "1f3540425dc5342f1e3e5150c1b42011179351f3",
+                "sha256": "fa4cb3e3b3bbe782e4d213ab151b9e7a56545ff413a144917edaccb0ba6f3a40",
+                "size": 116224,
+                "ssdeep": "1536:8iLOvRmmQegJgBbmAQ256/ZrwWhwqjhurmKFcbL86WvSG:8iyvRmeLs/ZrwWjjAqGcfzWK",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.HttpNoUserAgent",
+                    "Unit42.Tinba",
+                    "Unit42.ExplorerNetworkConnection"
+                ],
+                "tag_groups": [
+                    "BankingTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-12-22T14:10:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "432fbfe7b7f9e61c182fc6d819e9a7462d37865e52e766c026f791f2655f61b2",
+            "_source": {
+                "create_date": "2020-02-28T00:22:55",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:29:59",
+                "imphash": "890e522b31701e079a367b89393329e6",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "607485bda1f0a80c987566a31e22c691",
+                "region": [
+                    "us"
+                ],
+                "sha1": "70ff1b32d8f9dba9d57405320b8e804a0013deac",
+                "sha256": "432fbfe7b7f9e61c182fc6d819e9a7462d37865e52e766c026f791f2655f61b2",
+                "size": 2871868,
+                "ssdeep": "49152:vEVUcpEVUcUEVUc/EVUcYEVUcuEVUcpEVUcUEVUc/EVUcYEVUc8:vE3pE3UE3/E3YE3uE3pE3UE3/E3YE38",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.AutoIT",
+                    "Unit42.ResolvesParkedDomain",
+                    "Unit42.DecoySystemFileNames",
+                    "Unit42.UPXPacked",
+                    "Commodity.Pistolar"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-01-29T21:32:28"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "75aef4459a035777079ac515071a43a48d1939cfa61e313c966ce8acb74f9c3f",
+            "_source": {
+                "create_date": "2020-02-28T00:22:15",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:22",
+                "imphash": "baa93d47220682c04d92f7797d9224ce",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "49a1763d8b78a0aabab56bd03a0c645c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "0cee1e71b896ca3af0862bdce47fbb99193259b4",
+                "sha256": "75aef4459a035777079ac515071a43a48d1939cfa61e313c966ce8acb74f9c3f",
+                "size": 970004,
+                "ssdeep": "24576:tf7wDf93eeKxs7doDnMmKkUdqeTf8X8R22pQL:tEl1zqnbKTMegMR2GQL",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.ThemidaProtected",
+                    "Unit42.VirtualMachineDetection",
+                    "Unit42.XtremeRAT"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2017-09-03T01:10:44"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "1129db4f036e0ea883aaf023061a8a3de41d203c17ac6b5b2abe8afa7fdee6ed",
+            "_source": {
+                "create_date": "2020-02-28T00:24:06",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:12",
+                "imphash": "6f2679662efb2cf2e3e5d4d7885ea628",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "ed89f8af2c3ba5e2b30f69a010ebfb80",
+                "region": [
+                    "us"
+                ],
+                "sha1": "758f2749a67129dab49abe6b981b923d45c703b4",
+                "sha256": "1129db4f036e0ea883aaf023061a8a3de41d203c17ac6b5b2abe8afa7fdee6ed",
+                "size": 40672,
+                "ssdeep": "384:km7SCFozc/T94Umdjpxq4TqvhyY3Q6oVxYlOws0me86g7trW54Uu6Ot2xLdAeMvm:H7Xezc/T6Zp14hyYtoVxYBY37054Vc",
+                "tag": [
+                    "Unit42.InvokeWindowsShellCommand",
+                    "Unit42.PingSleep",
+                    "Unit42.BlackVine",
+                    "Unit42.Sakula"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-01-07T14:50:21"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3136322d372170d52fd0de9db01e87218830fa3b0ffc8922cc5426324f8a297e",
+            "_source": {
+                "create_date": "2020-02-28T00:22:55",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:28",
+                "imphash": "890e522b31701e079a367b89393329e6",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "0b0361aec45e7aef053eb71e1b9dad4c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "02ca5c8e15de1f97be0cd8d2edb084d7a0ab0aa6",
+                "sha256": "3136322d372170d52fd0de9db01e87218830fa3b0ffc8922cc5426324f8a297e",
+                "size": 2871868,
+                "ssdeep": "49152:vEVUcpEVUcUEVUc/EVUcYEVUcuEVUcpEVUcUEVUc/EVUcYEVUcn:vE3pE3UE3/E3YE3uE3pE3UE3/E3YE3n",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.AutoIT",
+                    "Unit42.ResolvesParkedDomain",
+                    "Unit42.DecoySystemFileNames",
+                    "Unit42.UPXPacked",
+                    "Commodity.Pistolar"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-01-29T21:32:28"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d802c718b830e93cfb117f3eb356454b76fe068c8e2506298c79b54123a60aa7",
+            "_source": {
+                "create_date": "2020-02-28T00:03:42",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:12:10",
+                "imphash": "9c4ee38698ddcc9887add7710ff11762",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d9850df90fd1d3b91745850df690648d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "79d8d2bbecf9f20fc13761bf6623355ef7f42e77",
+                "sha256": "d802c718b830e93cfb117f3eb356454b76fe068c8e2506298c79b54123a60aa7",
+                "size": 1094656,
+                "ssdeep": "12288:p6VHgMprDDNLcHSCojzCfLT4cqxKY+sV8lXWylFmINdWNW7dyIxi/DD:p6VAMpKOzCDUcqxKYj4WIFjLWN5Ixi",
+                "tag": [
+                    "Unit42.UsesDynamicDNS"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1970-01-01T15:50:05"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3135ce4b430b65addde596e242566e38c4101d7e6624ffd5463b5e4eb7fdfe89",
+            "_source": {
+                "create_date": "2020-02-28T00:25:19",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:23",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "13adf3376634a943c4495858a9b76844",
+                "region": [
+                    "us"
+                ],
+                "sha1": "726cc5a7859cf14e4b85c6d74b52472885fb6052",
+                "sha256": "3135ce4b430b65addde596e242566e38c4101d7e6624ffd5463b5e4eb7fdfe89",
+                "size": 797130,
+                "ssdeep": "24576:p1bCvSmc2AMCDlWnlqFMbDLjVuJ2dH1PRcAGdjz:pE3SDll8DLpPRcPNz",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3ffaf1d342a5911ee443df6547ccfd12d54f90b8c20423f185b9076e5914572f",
+            "_source": {
+                "create_date": "2020-02-28T00:22:59",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:55",
+                "imphash": "dbf687d6aa2a6cafe4349f7b0821a792",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "7deb95f71aaddebf09b47ba3da7f199d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "3d5a85b7723cd9f77bfb6a061d076f6888cf7514",
+                "sha256": "3ffaf1d342a5911ee443df6547ccfd12d54f90b8c20423f185b9076e5914572f",
+                "size": 741851,
+                "ssdeep": "12288:71/aGLDCMNpNAkoSzZWD8ayX2M7Cw7D0/Vc4HM9ONmKIdw+g6JQY3RU3:71/aGLDCM4D8ayGMyiONw4",
+                "tag": [
+                    "Commodity.Miras"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-02-27T06:41:59"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c0528a039c2214658e604e6c373024a02685aedb158d89648cb1a8efdacc934b",
+            "_source": {
+                "create_date": "2020-02-28T00:22:16",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:48",
+                "imphash": "b417c612a61862cd540163158ac8e507",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "b835793bc784b197d0bb3c52875a88c2",
+                "region": [
+                    "us"
+                ],
+                "sha1": "9cabb9b26ba2a309d27afb2e7d264bd6d74461e0",
+                "sha256": "c0528a039c2214658e604e6c373024a02685aedb158d89648cb1a8efdacc934b",
+                "size": 253461,
+                "ssdeep": "3072:ewhW3ngUQDI4InycX00AzhzX+zXXBdd2Z+tBCnmSiQZW9h8ig63V0u34MRgI+xcc:s3DWIDTXWcIZ+bBSd8wcAwgIm7M8l",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-04-14T15:15:00"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "203d4a2499d9422d18cc55c4566552dd3e14e4793dbee9b24f9c33af20ceda2f",
+            "_source": {
+                "create_date": "2020-02-28T00:25:13",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:30:56",
+                "imphash": "cc8e1a681a74afdb55d05e72ace1a719",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a9979a964be19bb11d0a5be655f0a0c8",
+                "region": [
+                    "us"
+                ],
+                "sha1": "e0e7225a4e3f5ba725e7ad6ffaf8d67e68e53b1e",
+                "sha256": "203d4a2499d9422d18cc55c4566552dd3e14e4793dbee9b24f9c33af20ceda2f",
+                "size": 165699,
+                "ssdeep": "3072:z9AJRSvTvHN7xkKGsfPNGhoIPpcUqIjIy:z9AvSLvHNdkKGbHPpDqI8y",
+                "tag": [
+                    "Commodity.Urelas"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-02-07T08:29:54"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "aa86f0cde6f211b4382bfca7230..........a2e2c38320f81fa692ee61a54ce",
+            "_source": {
+                "create_date": "2020-02-28T00:26:46",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:44",
+                "imphash": "318cc6baf22de5640b5a89a3bd3b774c",
+                "malware": 1,
+                "md5": "f2bfc8421db..........85459192e72",
+                "region": [
+                    "us"
+                ],
+                "sha1": "78b5dc56a9e3d83..........6c0dbfdbb4cf075",
+                "sha256": "aa86f0cde6f211b4382bfca7230..........a2e2c38320f81fa692ee61a54ce",
+                "size": 55296,
+                "ssdeep": "768:5/EAAqxG0QqLccK+xL7scaOZ/IcGs8WbwnWh+6AXT2qEDnXbiPGEDUXnpT0rJmnU:WAc0QqgHW7/ZwcF8c6jELX+PupTNj",
+                "tag": [
+                    "Commodity.WildFireTest"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-12-20T19:14:11"
+                    }
+                ]
+            },
+            "visible": false
+        },
+        {
+            "_id": "b41fa462005d8d6cdaa9321cd6cc63cb237050e3f62ea288d869bac05f9bae8d",
+            "_source": {
+                "create_date": "2020-02-28T00:25:21",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:30",
+                "imphash": "b892955ae494fe908bdf52e81e1dfa4c",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "9550816b554be080c11a55a7de0adf59",
+                "region": [
+                    "us"
+                ],
+                "sha1": "2fc987845d0b4a3b922651684d2e0b2dabb30f00",
+                "sha256": "b41fa462005d8d6cdaa9321cd6cc63cb237050e3f62ea288d869bac05f9bae8d",
+                "size": 83167,
+                "ssdeep": "1536:xpWRt7q07H66wNlRXFhI1j4Wehfp73iilQ7gt:xs7u07HvwVDQjxehpy57s",
+                "tag": [
+                    "Commodity.Urelas"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-07-06T07:58:14"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "a5a3c5de67e2e00ab735acecbd91311dcbb0b6f62c82d554a2f8625bb81607ce",
+            "_source": {
+                "create_date": "2020-02-28T00:23:38",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:14",
+                "imphash": "676f4bc1db7fb9f072b157186a10179e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "c333cd5844801155f165a548033e75b7",
+                "region": [
+                    "us"
+                ],
+                "sha1": "b5e9ca85f0e2017cf7b24bd627cd37d1f788fcd9",
+                "sha256": "a5a3c5de67e2e00ab735acecbd91311dcbb0b6f62c82d554a2f8625bb81607ce",
+                "size": 3024595,
+                "ssdeep": "24576:ATU7AAmZZcVKfIxTiEVc847flVC6faaQDbGV6eH81k6IbGD2JTu0GoZQDbGV6eH+:ATU7AAmw4gxeOw46fUbNecCCFbNect",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.WarzoneRAT"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-05-29T13:49:02"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "9674ba0d5bb9336eadb37f2f7fa8e24484dae6f784194cab3e076d42e2cf47d2",
+            "_source": {
+                "create_date": "2020-02-28T00:22:04",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:18",
+                "imphash": "6bfb12c0ac9e50aa509f27c55c68a1e2",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "97f7b6107ee5fc91c155ebfc9c2cf78a",
+                "region": [
+                    "us"
+                ],
+                "sha1": "e86e4d7b0b50d8c281b58933a45301b4129887db",
+                "sha256": "9674ba0d5bb9336eadb37f2f7fa8e24484dae6f784194cab3e076d42e2cf47d2",
+                "size": 127324,
+                "ssdeep": "3072:Kx6AHjYzaFXg+w17jsgS/jHagQg12xiaVD:KxzYzaFXi17j9D",
+                "tag": [
+                    "Unit42.DisableUAC",
+                    "Unit42.DisableRegedit",
+                    "Unit42.DisableSystemRestore",
+                    "Unit42.ImageFileExecutionOptionsPersistence"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-01-12T14:58:39"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "74c4b7ceff4966344ef950175a470b107d36b61f9ec88a3f46e4cf230b9ae0e5",
+            "_source": {
+                "create_date": "2020-02-28T00:01:41",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:12:51",
+                "imphash": "25a354ef42e3199f48f46c425cd503de",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "6d4e66faed9a47edb508ec1f46fac664",
+                "region": [
+                    "us"
+                ],
+                "sha1": "4c9348fc09642f451c0f1ff6b8e4607b69c7405a",
+                "sha256": "74c4b7ceff4966344ef950175a470b107d36b61f9ec88a3f46e4cf230b9ae0e5",
+                "size": 272909,
+                "ssdeep": "3072:2f7t9cMXByJMqzp2HlU5G8NjxbOFqrIXq/clBqwumoVKjnw/ZKwBHDfKdCCW:2fFXcMqzAz8NjxbbGqElBzToKjWgED46",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-04-18T04:05:41"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "fd5aad8e60a9bdeb21f8c88a866cbbafeea886303bd3679af5fc26b869dee9a7",
+            "_source": {
+                "create_date": "2020-02-28T00:23:29",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:46",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "26104687bb45d79f276c18610bc1e5cc",
+                "region": [
+                    "us"
+                ],
+                "sha1": "255bb61fce003a9158a57b88d59053dbbb669eed",
+                "sha256": "fd5aad8e60a9bdeb21f8c88a866cbbafeea886303bd3679af5fc26b869dee9a7",
+                "size": 894205,
+                "ssdeep": "24576:JlOTZA9uOnQ0oTRqFSGB2uJ2s4otqFCJrW9FqvSbqsHasgXhFHDAGtlRXZ+CP63L:JUTZA9uOnQ0oTR/v",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "ef7bfbce78791c2eb107323271a67f8b5e531f9809c31710bd526af006c66d82",
+            "_source": {
+                "create_date": "2020-02-28T00:25:40",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:52",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "b988d6eff2bcde51e2c52e0116d32717",
+                "region": [
+                    "us"
+                ],
+                "sha1": "bda1337b88d4bb7c341dacf682e7e2da2111e8f2",
+                "sha256": "ef7bfbce78791c2eb107323271a67f8b5e531f9809c31710bd526af006c66d82",
+                "size": 115648,
+                "ssdeep": "3072:tIOMfTcP6FCrdStBANR4CJbgbntDbgbnt5:eOhPaCraByVbSxbSj",
+                "tag": [
+                    "Unit42.DecoySystemFileNames",
+                    "Unit42.ModifyShellOpenCommand",
+                    "Commodity.Koceg"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-04-07T12:33:36"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "e5da8c9e68c670763f2ca0950c1c216c019d417e5b3fc432866c9c84222349c4",
+            "_source": {
+                "create_date": "2020-02-28T00:17:18",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:49",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "77f1263de315b0f0a50fae6c0b7b3509",
+                "region": [
+                    "us"
+                ],
+                "sha1": "7a26f6cce54911a9344a8c4878be3752fc3fe0b3",
+                "sha256": "e5da8c9e68c670763f2ca0950c1c216c019d417e5b3fc432866c9c84222349c4",
+                "size": 1612557,
+                "ssdeep": "24576:JzeMyl3CK4Aq3o1F+pMWeFwMU/0PwAmK8ib0yB1hN7k3z3tJ7:J5yl3X7N+pMhKQYAhR0yBd7UT7",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c56a2db701f7f1a3b11f0f9883549f774718760eb1d555810f0d80a2b212619c",
+            "_source": {
+                "create_date": "2020-02-28T00:23:46",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:17",
+                "imphash": "dbf687d6aa2a6cafe4349f7b0821a792",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "9d47b0faa4908a1d0ce6fe829f114998",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a35179461f611489d70443e0d96b26daf5ee76c7",
+                "sha256": "c56a2db701f7f1a3b11f0f9883549f774718760eb1d555810f0d80a2b212619c",
+                "size": 801761,
+                "ssdeep": "12288:P1/aGLDCMNpNAkoSzZWD8ayX2MQCw7D0FoWxJpcEi0/3IWV//7cSdpmYsJIA1Lty:P1/aGLDCM4D8ayGMZo8/6LT06c3",
+                "tag": [
+                    "Commodity.Miras"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-02-27T06:41:59"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "a75ec71de12e048ee6f907a820e2480fd82a44037f57e0626d8c4b1b68e24e33",
+            "_source": {
+                "create_date": "2020-02-28T00:22:59",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:31:12",
+                "imphash": "6d5d84d2f024a2d1307b9d8c6b474103",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "df7671f916cbbd7c0fc85e70016b8859",
+                "region": [
+                    "us"
+                ],
+                "sha1": "383f290332bbf52ea21eb8257825498463d396a0",
+                "sha256": "a75ec71de12e048ee6f907a820e2480fd82a44037f57e0626d8c4b1b68e24e33",
+                "size": 3186264,
+                "ssdeep": "49152:C73yRfyzv7X9/NfyRfyzv7X9/LaojhFV2KH:CzMfSX9/NfMfSX9/LaoHV2",
+                "tag": [
+                    "Commodity.SillyFDC"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-11-16T03:29:47"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "9192a37074bf02ecb4de0915cb010562edd6ea1c33364e572ff65a7f058c7215",
+            "_source": {
+                "create_date": "2020-02-28T00:25:56",
+                "filetype": "PE64",
+                "finish_date": "2020-02-28T00:31:47",
+                "imphash": "15d37b2dbf429fe98369cfe1275b025f",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e0f7c1aca63ffd731849b3013194e253",
+                "region": [
+                    "us"
+                ],
+                "sha1": "38a2c741ab2d2051019afe6ae63f1d3eb9a33e90",
+                "sha256": "9192a37074bf02ecb4de0915cb010562edd6ea1c33364e572ff65a7f058c7215",
+                "size": 3574503,
+                "ssdeep": "98304:D1ONtyBeSFkXV1etEKLlWUTOfeiRA2R76zHrU5:DbBeSFkT",
+                "tag": [
+                    "Commodity.CoinMiner"
+                ],
+                "tag_groups": [
+                    "LinuxMalware",
+                    "CryptoMiner"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-09-04T19:31:32"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "0b08355453b9cbbaf8e3546ad8a34c40a355372be13ef44957c8057b97e1c8fb",
+            "_source": {
+                "create_date": "2020-02-28T00:02:35",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:13:54",
+                "imphash": "6bfb12c0ac9e50aa509f27c55c68a1e2",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "52e98aee04b5b753ad10f88885514002",
+                "region": [
+                    "us"
+                ],
+                "sha1": "ce9d3e7e1d67af818cc3bc18bd705105547ed05c",
+                "sha256": "0b08355453b9cbbaf8e3546ad8a34c40a355372be13ef44957c8057b97e1c8fb",
+                "size": 2548190,
+                "ssdeep": "24576:UN2NqNmNMN2NqNmNYN2NqNmN0N2NqNmN0N2NqNmNa:U0gEa0gEG0gEy0gES0gEc",
+                "tag": [
+                    "Unit42.DisableUAC",
+                    "Unit42.DisableRegedit",
+                    "Unit42.DisableSystemRestore",
+                    "Unit42.ImageFileExecutionOptionsPersistence"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-01-12T14:58:39"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "0f2cd453a5961963fb4bf269aae485cdf6f5785385f99211e0bf3470aea566dd",
+            "_source": {
+                "create_date": "2020-02-28T00:23:30",
+                "filetype": "PE64",
+                "finish_date": "2020-02-28T00:31:57",
+                "imphash": "e4290fa6afc89d56616f34ebbd0b1f2c",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "87c31d148050ff89880ebb707ce2d655",
+                "region": [
+                    "us"
+                ],
+                "sha1": "c6b22c34533896db64e576b531c7fd8a9b95c39d",
+                "sha256": "0f2cd453a5961963fb4bf269aae485cdf6f5785385f99211e0bf3470aea566dd",
+                "size": 1047095,
+                "ssdeep": "24576:JanwhSe11QSONCpGJCjETPl+Me7bPopNO0gUmAQFF3:knw9oUUEEDl+xTqiFh",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.CoinMiner"
+                ],
+                "tag_groups": [
+                    "LinuxMalware",
+                    "CryptoMiner"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-08-28T23:48:37"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "b9262914e49a5aefeec378334a4d322ab9c14ad38b86fc01d7388b4b4f7ba44e",
+            "_source": {
+                "create_date": "2020-02-28T00:10:30",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:16:21",
+                "imphash": "48d2fd07a874efd2ec47be1996e05533",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "12d0fcc02615308c994c69960858fd13",
+                "region": [
+                    "us"
+                ],
+                "sha1": "349a48b3f55f3681368d5d0dc9fa5b8c2125a1c1",
+                "sha256": "b9262914e49a5aefeec378334a4d322ab9c14ad38b86fc01d7388b4b4f7ba44e",
+                "size": 864912,
+                "ssdeep": "24576:xsIP66Z5Txg7BTzWBBPQu7GqplOnHNa6VDXgei4itK:hJLKTzsBcqplOnHNa+XF5iY",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c857c1c5b325531fc8836e1ff0f1cab8c9fb8f2a071e6edcd46c3763b88a8ed0",
+            "_source": {
+                "create_date": "2020-02-28T00:10:07",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:16:41",
+                "imphash": "6bac3cfe8acb6c6c4a30aaa022de2388",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "48b47e4a13944fde1944f5b2375cb167",
+                "region": [
+                    "us"
+                ],
+                "sha1": "fa1534aae8e15ed763096621e5a6e6abf1d50e4c",
+                "sha256": "c857c1c5b325531fc8836e1ff0f1cab8c9fb8f2a071e6edcd46c3763b88a8ed0",
+                "size": 2806460,
+                "ssdeep": "24576:ssF6mZZcVKfIxTiEVc847flVC6faaQDbGV6eH81k6IbGD2JTu0GoZQDbGV6eH818:fF6mw4gxeOw46fUbNecCCFbNecy",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.WarzoneRAT",
+                    "Unit42.UPXPacked"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-05-29T13:49:02"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c28e03f5d409fc85c3d814cd4c9216a45a84cdd8e1d79c5b4e98abae40095a9d",
+            "_source": {
+                "create_date": "2020-02-28T00:10:44",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:16:55",
+                "imphash": "af3ba5bf5918eaef7c5f364fe0aae9c3",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "36464919182453da920f9580099914b6",
+                "region": [
+                    "us"
+                ],
+                "sha1": "e62b17593e989026b46c3f1b04565f341f38d1f0",
+                "sha256": "c28e03f5d409fc85c3d814cd4c9216a45a84cdd8e1d79c5b4e98abae40095a9d",
+                "size": 7303954,
+                "ssdeep": "768:tomEg1+Ls+cAXJpB2TgpZnjJHc47EZEygj95SWMpbViFq4/4M9nws9A:toGrAX5NjJHhE2ygDLMpZcq4/4M9nS",
+                "tag": [
+                    "Commodity.SmallWorm"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2004-05-06T23:02:15"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "9b050546b7fe8c98868f7165d00ff0921a83755c81e7dd48b9cc54306dfec9e6",
+            "_source": {
+                "create_date": "2020-02-28T00:10:56",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:16:56",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "0277d914d7e337ac8ddf88a055c7730b",
+                "region": [
+                    "us"
+                ],
+                "sha1": "d19a5b87642b6aa0ef9b3a4c9cdb68e5c0546e24",
+                "sha256": "9b050546b7fe8c98868f7165d00ff0921a83755c81e7dd48b9cc54306dfec9e6",
+                "size": 213645,
+                "ssdeep": "6144:t731bdBaB/x4f1Q/sCGB/jR8u+vNZow9AGNJ:91bsxy3BryowFJ",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "08df7be1398f4f58bdf1e27b435c54e6ef7ded0b47d42956278bdd0eae8f5f81",
+            "_source": {
+                "create_date": "2020-02-28T00:11:48",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:17",
+                "imphash": "95b96649ab6a6e619c0f3721c9345b09",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "1d71b7c4ca42cd761eb223c6f91591ac",
+                "region": [
+                    "us"
+                ],
+                "sha1": "596c47caaf3e0958b19d143ab3cea183184f4c55",
+                "sha256": "08df7be1398f4f58bdf1e27b435c54e6ef7ded0b47d42956278bdd0eae8f5f81",
+                "size": 421240,
+                "ssdeep": "6144:unac4Vm4enrWJK6yHvrDXg3dJNDog/pHdeusQJ:0accm4enrMKX3Q3hDpHdeusQJ",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2015-02-09T13:29:05"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3c027368058f60631759770a4aa6f0e899fc8ee21de0c2c36a2ef0cefbe95e26",
+            "_source": {
+                "create_date": "2020-02-28T00:09:50",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:59",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "c2c18484c8546dd1477d50d769c41eae",
+                "region": [
+                    "us"
+                ],
+                "sha1": "5af032908fa4508754ffbd215c067fe540a91236",
+                "sha256": "3c027368058f60631759770a4aa6f0e899fc8ee21de0c2c36a2ef0cefbe95e26",
+                "size": 884390,
+                "ssdeep": "24576:JlOTZA9uOnQ0oTRqFSGB2uJ2s4otqFCJrW9FqvSbqsHasgXhFHDAGtlRXZ+CP632:JUTZA9uOnQ0oTR/a",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d71a8e863eb56ef71ca8ddd9c570e547c503c4201863e36076b63b4a163fcb25",
+            "_source": {
+                "create_date": "2020-02-28T00:08:40",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:34",
+                "imphash": "e0108c6f760b9bf79f1f3e8200481dd8",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "03ddf4087b7d0bdcf514c2513e0ad9e9",
+                "region": [
+                    "us"
+                ],
+                "sha1": "5609a07f95c09efeb27a889e15c119b6e8c59ca5",
+                "sha256": "d71a8e863eb56ef71ca8ddd9c570e547c503c4201863e36076b63b4a163fcb25",
+                "size": 975171,
+                "ssdeep": "24576:yxb45l9pkQeN/7DHT9+FCIiIc4rTxWQ1NjWWmULdAC:yxOb6ph7jKCIiIf/sQrWWmUBX",
+                "tag": [
+                    "Unit42.RenameOnReboot",
+                    "Unit42.UPXPacked",
+                    "Commodity.Valla",
+                    "Commodity.Xolxo"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "63ddce0adb780d8bc0bd39267cf4fe4cc2872fe5f1c5e797e9ab1ed6c7b9055c",
+            "_source": {
+                "create_date": "2020-02-28T00:11:25",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:57",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "f7092b41ed6e37205c1ba9bb04078265",
+                "region": [
+                    "us"
+                ],
+                "sha1": "1424534167f77231d99c5ec813a0c9463799cce8",
+                "sha256": "63ddce0adb780d8bc0bd39267cf4fe4cc2872fe5f1c5e797e9ab1ed6c7b9055c",
+                "size": 3604244,
+                "ssdeep": "98304:ydVf3MpECA+Sc+e55CJgCZeOGQhWm8FUFV:UJD+Sc+8oJxezQ8O",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "e07a8771d5d33088b90017ce6b7a5a0d567bd12e66ebeae29fdca13d8b32302e",
+            "_source": {
+                "create_date": "2020-02-28T00:08:56",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:46",
+                "imphash": "bfbf457d52153d2191e67bb6c9212334",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a38ceed7fafe5c4078cf458e3c0e65d5",
+                "region": [
+                    "us"
+                ],
+                "sha1": "f88c052c93fecd882206a687786fc9b0ccd310e9",
+                "sha256": "e07a8771d5d33088b90017ce6b7a5a0d567bd12e66ebeae29fdca13d8b32302e",
+                "size": 73972,
+                "ssdeep": "384:N6wayA+1mwnA353BXR+oGfPmfm4MlcTGXdhjwroyY2rebV5O6KgxWb/83BXR+oGx:NpQNwC3BESe4Vqth+0V5vKlE3BEJwRr0",
+                "tag": [
+                    "Unit42.Vilsel"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2009-01-06T04:02:14"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "85874c82269c338c32c5e4057157b5a164c7dce7c375060d04733387ff39ca96",
+            "_source": {
+                "create_date": "2020-02-28T00:09:24",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:06",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "83fed1247e2662aaddce445326858e80",
+                "region": [
+                    "us"
+                ],
+                "sha1": "c255dd1695b70d6959d02348ffdb4d47acbdf777",
+                "sha256": "85874c82269c338c32c5e4057157b5a164c7dce7c375060d04733387ff39ca96",
+                "size": 1689827,
+                "ssdeep": "49152:5Jhfg5opZNy6MnitfJ0qqDu4B9vII0kew4SQRTssUo:7h4CZNcnif+BnvII0keSY4sUo",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "592ed0cbd6bb6b48bd4477eddd861c5750f5223da6cfc1443d0bc5d0034f2100",
+            "_source": {
+                "create_date": "2020-02-28T00:07:48",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:16",
+                "imphash": "799648032be17bf6d9bce0159e2ededa",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "c17cba9ed2326bf7e1b366a5961997b7",
+                "region": [
+                    "us"
+                ],
+                "sha1": "4efa97f9652c1a407d062be3bf74c66af2b47c27",
+                "sha256": "592ed0cbd6bb6b48bd4477eddd861c5750f5223da6cfc1443d0bc5d0034f2100",
+                "size": 821068,
+                "ssdeep": "12288:smqslOszILWPcIW9etvXAJQD+VQSFoxtPPaL/:smI2ckBw1Rwlq",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.Unruy"
+                ],
+                "tag_groups": [
+                    "Downloader"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2009-12-11T21:31:37"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "e1b4820b03e9b5a90006ae1fd7621859e294931e3057307b6b7065f3e7b7581b",
+            "_source": {
+                "create_date": "2020-02-28T00:11:20",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:44",
+                "imphash": "a6083e536d6342c425a7dad4bdc72272",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "ac78896631ac736ef1df15ba5c2909d6",
+                "region": [
+                    "us"
+                ],
+                "sha1": "cd93410e1467658e740f839b24f431609e798400",
+                "sha256": "e1b4820b03e9b5a90006ae1fd7621859e294931e3057307b6b7065f3e7b7581b",
+                "size": 509248,
+                "ssdeep": "12288:Q9uQMH+4DnN39ALtZHQdjQqMtAhuC5vHLvEYZBM0:Q0l39oUjQqq2RbZp",
+                "tag": [
+                    "Unit42.UsesDynamicDNS",
+                    "Unit42.ResolvesFreeHostingDomain",
+                    "Commodity.Ibashade"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1970-01-04T19:01:20"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "55c4a6fd4bf462ba37cbe5663e9e07700974d466e0ae90816a49caed45d1e358",
+            "_source": {
+                "create_date": "2020-02-28T00:13:22",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:54",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "691c4ab365f322ddbc866b9be0f3afac",
+                "region": [
+                    "us"
+                ],
+                "sha1": "4bd290f1ce96bb3ea8b0bb2f99651b5383406fc9",
+                "sha256": "55c4a6fd4bf462ba37cbe5663e9e07700974d466e0ae90816a49caed45d1e358",
+                "size": 1257323,
+                "ssdeep": "24576:p1bSHLQTHQDp4EO/fRriEOGbwOBOrur2Nqi1qsqqEuQs8ks3ETAuZ5+TK19:puLgHQGE6ffwOBOA9iolqEhuZ5SK3",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d2f22a429c6b9f437b22e50976f486c9ad9eb77bceb57b9eba1886812d6ea0fa",
+            "_source": {
+                "create_date": "2020-02-28T00:12:40",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:32",
+                "imphash": "9315d57043835d18411ce39598b0bcd9",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "fb500f56d97b2f1a6b1bf83ef8145e69",
+                "region": [
+                    "us"
+                ],
+                "sha1": "92cb9e4335e50781059a7cff9610eba088a30aee",
+                "sha256": "d2f22a429c6b9f437b22e50976f486c9ad9eb77bceb57b9eba1886812d6ea0fa",
+                "size": 273421,
+                "ssdeep": "3072:40x9cS4EYuzkHZYx7YmG02RvcLqP+RhML4svPeTs+5KDR+UBz9cvMh2gYMva6SUi:PJrdKYxUmG02RkOP+MtWTsqKFP5938",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-04-18T17:56:48"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "41e3f034392bc4e4215789e9ca090478adda68fa604bddfd7306200febcc2196",
+            "_source": {
+                "create_date": "2020-02-28T00:09:57",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:03",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e330b2c5653d8d3aef0efb2a282ab856",
+                "region": [
+                    "us"
+                ],
+                "sha1": "35181484de867471d3f68224ced3a9a3c78309b6",
+                "sha256": "41e3f034392bc4e4215789e9ca090478adda68fa604bddfd7306200febcc2196",
+                "size": 893660,
+                "ssdeep": "24576:JlOTZA9uOnQ0oTRqFSGB2uJ2s4otqFCJrW9FqvSbqsHasgXhFHDAGtlRXZ+CP63H:JUTZA9uOnQ0oTR/D",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "169d5ca84c62fc2a6e0a9a725c41dc4469f0f84e3049f878e58ce0ebea613404",
+            "_source": {
+                "create_date": "2020-02-28T00:11:46",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:29",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d39349b18acff8e3b9fd2eae952636a9",
+                "region": [
+                    "us"
+                ],
+                "sha1": "77eb3bf665875bfb9a3c2c85b1c91c2f2ecaa806",
+                "sha256": "169d5ca84c62fc2a6e0a9a725c41dc4469f0f84e3049f878e58ce0ebea613404",
+                "size": 140288,
+                "ssdeep": "3072:p1B31bdBob2QXoIAfgd4H2iKi4cl34Ttbx64zCoZS0n:p731bdBaBoIAod4H20Ho5PzC8xn",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "c6df523d95393ee5dbd6e241d3fc5b3434b65249923ea44248fd1a85dc266dab",
+            "_source": {
+                "create_date": "2020-02-28T00:08:14",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:45",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "3d40b442e35b389597fa62916bfc421a",
+                "region": [
+                    "us"
+                ],
+                "sha1": "0e0a973bac2ac663fed59416ee072974902516a2",
+                "sha256": "c6df523d95393ee5dbd6e241d3fc5b3434b65249923ea44248fd1a85dc266dab",
+                "size": 208929,
+                "ssdeep": "6144:t731bdBaB+qyk17jAfbuyKUfpLqoiJlrYwetG:91bgykpjAfKyKUVqoirz",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "80fc6b62103e714bdceb7314f16ae91d59a5d4a147421376fa671b35c26eb137",
+            "_source": {
+                "create_date": "2020-02-28T00:12:02",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:54",
+                "imphash": "baa93d47220682c04d92f7797d9224ce",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "56c4c040a3c7fe581dae6f2233b7c822",
+                "region": [
+                    "us"
+                ],
+                "sha1": "7c9ba932262a36a81134f7dc750c979968bd3c6d",
+                "sha256": "80fc6b62103e714bdceb7314f16ae91d59a5d4a147421376fa671b35c26eb137",
+                "size": 968854,
+                "ssdeep": "24576:tf7wDf93eeKxs7doDnMmKkUdqeTf8X8R22pQl:tEl1zqnbKTMegMR2GQl",
+                "tag": [
+                    "Unit42.ProcessInjection",
+                    "Unit42.ThemidaProtected",
+                    "Unit42.VirtualMachineDetection",
+                    "Unit42.XtremeRAT"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2017-09-03T01:10:44"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "bb9feaf23d3ea98ed88277d4cc2b928bf007e07bf2fc0672345bdf3f164fae96",
+            "_source": {
+                "create_date": "2020-02-28T00:09:30",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:09",
+                "imphash": "799648032be17bf6d9bce0159e2ededa",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "8dc2db6b8f569c690a23dca9d60eec96",
+                "region": [
+                    "us"
+                ],
+                "sha1": "d64a72ced06affec3fda67f5a139f494a56e24b6",
+                "sha256": "bb9feaf23d3ea98ed88277d4cc2b928bf007e07bf2fc0672345bdf3f164fae96",
+                "size": 836848,
+                "ssdeep": "12288:smqslOszILWPcIHqUXAx4C5I3Nf/mW509hDj+f3aDtf088TqD8:smI2cUDvNHxK/jWmvg",
+                "tag": [
+                    "Unit42.CreateScheduledTask",
+                    "Unit42.Unruy"
+                ],
+                "tag_groups": [
+                    "Downloader"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2009-12-11T21:31:37"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "e09503f2ccc17c3cc37de5763fee01e39c3256f6631647ecd745e2110b3aebe4",
+            "_source": {
+                "create_date": "2020-02-28T00:12:50",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:58",
+                "imphash": "553a7d3ce4268aed81cae0f3049b7034",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "828cbc8cbbcd59da22fb42b34a9a25b8",
+                "region": [
+                    "us"
+                ],
+                "sha1": "99aa667f1d0d104271a80ed6ac764264eb2ca593",
+                "sha256": "e09503f2ccc17c3cc37de5763fee01e39c3256f6631647ecd745e2110b3aebe4",
+                "size": 1204224,
+                "ssdeep": "24576:MVJrJ3YpLtsXGx9Q8zQ/+kCsg+T3yKqTbG39zg:MJoUXGx9i/w0jyd+g",
+                "tag": [
+                    "Unit42.RenameOnReboot"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2015-08-07T05:07:44"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "318d565afb127bd8fc895193b11ec32dc1cc97da78d558993c23fdf7b376687d",
+            "_source": {
+                "create_date": "2020-02-28T00:09:43",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:58",
+                "imphash": "09d0478591d4f788cb3e5ea416c25237",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "9335d337c683c21306a9e6fb2e737222",
+                "region": [
+                    "us"
+                ],
+                "sha1": "4f7bee0a5a3f72abc2fa2643649b59aada1dd2d3",
+                "sha256": "318d565afb127bd8fc895193b11ec32dc1cc97da78d558993c23fdf7b376687d",
+                "size": 5602468,
+                "ssdeep": "98304:PxWxXxnxxXxAxXxxXxYxxXxxXxBxXxxXxxXxvxXxXxxXxxXxw:X",
+                "tag": [
+                    "Commodity.SillyFDC"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-11-16T03:29:47"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d9338abd878fcb5ff2583e223a7b1f249c7c0b0b93a2aff3ca25f18f4a8f7b70",
+            "_source": {
+                "create_date": "2020-02-28T00:12:36",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:55",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e9b53a0e02c72398f56427634dcb2d15",
+                "region": [
+                    "us"
+                ],
+                "sha1": "f7d4cf2561eb1235435e8c47b3584764c0294cf1",
+                "sha256": "d9338abd878fcb5ff2583e223a7b1f249c7c0b0b93a2aff3ca25f18f4a8f7b70",
+                "size": 765538,
+                "ssdeep": "12288:51bYIflen6GCQhekfZKsfy3ZGqYW+6TeJPZ3w/IGkqVVq0rtaI+sj3QqxXVl3Bi:51bPl9jQgkfZKr3KeetZ3w/0SU0rtKsc",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "5cf8294685287d7e162e2def6304f88cc22dce1694eed48dadd72477f51d206f",
+            "_source": {
+                "create_date": "2020-02-28T00:12:33",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:19:02",
+                "imphash": "3e3d633779e35448851e7a9ca7e72522",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "4c4d8212c3f4b3a130bb4624ed1c1374",
+                "region": [
+                    "us"
+                ],
+                "sha1": "9cb70e0f65eebfbf68d6fd82589fa9b9f1bd2188",
+                "sha256": "5cf8294685287d7e162e2def6304f88cc22dce1694eed48dadd72477f51d206f",
+                "size": 1546390,
+                "ssdeep": "3072:xR4jdNqTqHLklZpb4RrRDFBI/cMrnTS4y3NkEjbvjuC8xVkxRQjZ3phRrbh7c6c:/afcEHI/prnm4y3NjTjuC8xOcxph",
+                "tag": [
+                    "Unit42.MPressPacked"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-09-27T04:51:42"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "eb36c1fa16359dc74a2a285017e5a8e35121579e0478504bccaefb1d06ff7908",
+            "_source": {
+                "create_date": "2020-02-28T00:11:32",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:19:12",
+                "imphash": "3d349bb1fedb23758a6e397e5d691576",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "6ba8796bb16e0b6c83906356c2a30cc0",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a7659f02c91c9cbc2b6c89915156cce7815c32ca",
+                "sha256": "eb36c1fa16359dc74a2a285017e5a8e35121579e0478504bccaefb1d06ff7908",
+                "size": 3299862,
+                "ssdeep": "49152:ZUuBTOjZwS1Ihk+hy7iHuaRZnt+NTNLiG97Z:ZXRO0hkr2Rxt+e8",
+                "tag": [
+                    "Unit42.DisableUAC",
+                    "Unit42.Bancteian"
+                ],
+                "tag_groups": [
+                    "RemoteAccessTrojan"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2016-04-17T18:03:55"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "67190c19aade7e68766ffca6815..........7f39f41d0e399a410c2d37294df",
+            "_source": {
+                "create_date": "2020-02-28T00:14:42",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:19:46",
+                "imphash": "318cc6baf22de5640b5a89a3bd3b774c",
+                "malware": 1,
+                "md5": "9a16f7f9ee0..........e112ba441f6",
+                "region": [
+                    "us"
+                ],
+                "sha1": "9d58250f9429b51..........d6506feb779fbb3",
+                "sha256": "67190c19aade7e68766ffca6815..........7f39f41d0e399a410c2d37294df",
+                "size": 55296,
+                "ssdeep": "768:s/EAAqxG0QqLccK+xL7scaOZ/IcGs8WbwnWh+6AXT2qEDnXbiPGEDUXnpT0rJmnU:FAc0QqgHW7/ZwcF8c6jELX+PupTNj",
+                "tag": [
+                    "Commodity.WildFireTest"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-12-20T19:14:11"
+                    }
+                ]
+            },
+            "visible": false
+        },
+        {
+            "_id": "e8210f503e44af80766a2604821d1b0a636c0b4f488077b07c5848e47e9d5db0",
+            "_source": {
+                "create_date": "2020-02-28T00:10:55",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:52",
+                "imphash": "09d0478591d4f788cb3e5ea416c25237",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "41b4d0add0b2450673d078efea02fe60",
+                "region": [
+                    "us"
+                ],
+                "sha1": "323399d6f15fe8f934c7c809b571062ae1491663",
+                "sha256": "e8210f503e44af80766a2604821d1b0a636c0b4f488077b07c5848e47e9d5db0",
+                "size": 626831,
+                "ssdeep": "12288:X/EZ2/EZg/xSFjGMOtsg50nuGb6G3avG/a/erBG0xbdnH2B4bXCBVX9tX1n+potO:PEmEi3s5HXitO",
+                "tag": [
+                    "Commodity.SillyFDC"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-11-16T03:29:47"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "41896ab2fe275b5271c627bbc8b320d41de8795e70f2204c0043daf912debb09",
+            "_source": {
+                "create_date": "2020-02-28T00:11:45",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:17:57",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "1cde2955c7bbaf77debd341fad6c51df",
+                "region": [
+                    "us"
+                ],
+                "sha1": "32ea4fd42d3a59895f6b5692fe147a6dec858f25",
+                "sha256": "41896ab2fe275b5271c627bbc8b320d41de8795e70f2204c0043daf912debb09",
+                "size": 5210631,
+                "ssdeep": "98304:WkC8CxReRxiOVvOhJ5jGzJiGsYPYjkzCtWS2VjInBvaZ3dECZfMazcP4UMTo+Y:Wp8DxEhb6zUskkGtWSVnBv6OCZBzKOTa",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "2d2684f2daf70e09228953e9617b97ce750430874438392cdb09eeabaddad01a",
+            "_source": {
+                "create_date": "2020-02-28T00:12:51",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:19:03",
+                "imphash": "27f21db1a40f044cb2ea9aa7f88716f6",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "e719d80de3674ffc6520907448a09c9b",
+                "region": [
+                    "us"
+                ],
+                "sha1": "31a3a31ecb7574cfa2f51d954fc27df3bdacb364",
+                "sha256": "2d2684f2daf70e09228953e9617b97ce750430874438392cdb09eeabaddad01a",
+                "size": 9812048,
+                "ssdeep": "768:tms+cAXJpB2TgpZnjJHet/OxJ+oFEZEdM/4N:tNrAX5NjJHP+oFE2dM/4N",
+                "tag": [
+                    "Commodity.SmallWorm"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2004-05-06T23:02:15"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "e146c16b45a85fedcaf1b94e42403e63e57efa144d829b139ae1724ccf84fe58",
+            "_source": {
+                "create_date": "2020-02-28T00:05:03",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:18:26",
+                "imphash": "08b656407b8d307979dc72c3fcc683a8",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "60e0d0b4200f885f1ae40f2df067f37e",
+                "region": [
+                    "us"
+                ],
+                "sha1": "2dc6e814506ea3278c7129148f1501353dfb4f7b",
+                "sha256": "e146c16b45a85fedcaf1b94e42403e63e57efa144d829b139ae1724ccf84fe58",
+                "size": 1016698,
+                "ssdeep": "24576:T+SlX+RPvexRJMjEbeeIAW9eee3syjkX8dWp8YbeoP/:qSR+JeLJfbeeIbeee3sxJ8oeoP/",
+                "tag": [
+                    "Unit42.ModifyWindowsFirewall",
+                    "Unit42.ResolveSinkholedDomain",
+                    "Unit42.DecoySystemFileNames",
+                    "Unit42.ModifyShellOpenCommand",
+                    "Unit42.UPXPacked",
+                    "Commodity.Koceg"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-03-24T17:31:42"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "9a137649347414e64dfd3744080f3429755eabc3537b494760375901e73e675a",
+            "_source": {
+                "create_date": "2020-02-28T00:19:14",
+                "filetype": "Android DEX",
+                "finish_date": "2020-02-28T00:20:07",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "454ab526ed594a76f6a9ec386934917b",
+                "region": [
+                    "us"
+                ],
+                "sha1": "d0d5ca6bc9298130ed6786ca1cb00c89461c4079",
+                "sha256": "9a137649347414e64dfd3744080f3429755eabc3537b494760375901e73e675a",
+                "size": 901812,
+                "tag": [
+                    "Unit42.AccessSMS"
+                ],
+                "tag_groups": [
+                    "MobileMalware"
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d4ee2d93b09c95fb8709abaf22ea588932fff07dd325e5e14cb455f1c4d65345",
+            "_source": {
+                "create_date": "2020-02-28T00:13:31",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:00",
+                "imphash": "2c2ed3b7708fb53e5b80ff09a18fbe43",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "c257745f4b7d9fa633b498dda08bc661",
+                "region": [
+                    "us"
+                ],
+                "sha1": "bebb6406c1a01f43d5086618ba39a017ddb4489a",
+                "sha256": "d4ee2d93b09c95fb8709abaf22ea588932fff07dd325e5e14cb455f1c4d65345",
+                "size": 380590,
+                "ssdeep": "3072:Wae7OubpGGErCbuZM4EQrjo7vgHJJPPIgfBF4mvcTd9sR1YA:WacxGfTMfQrjoziJJHI6BDcTd9m",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.GatorAdware"
+                ],
+                "tag_groups": [
+                    "PotentiallyUnwantedProgram"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2002-04-23T02:20:57"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "31c3706bd352c4bf4ec2eee2b681269f04a4cceeea33b93de56d838fb3b4c5e7",
+            "_source": {
+                "create_date": "2020-02-28T00:12:21",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:21",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "dd13c84d8123617ad18ad49df87ea7c8",
+                "region": [
+                    "us"
+                ],
+                "sha1": "07e49eaa8d1c6bdc2c1ba7a05cbeee8109c0b9eb",
+                "sha256": "31c3706bd352c4bf4ec2eee2b681269f04a4cceeea33b93de56d838fb3b4c5e7",
+                "size": 1403035,
+                "ssdeep": "24576:JlOTZA9uOnQ0oTRqFSGB2uJ2s4otqFCJrW9FqvSbqsHasgXhFHDAGtlRXZ+CP63V:JUTZA9uOnQ0oTR/S1O",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3e93baab383abbcf3411088b19ef36f56000f59b5b89012c607394432c33e2fe",
+            "_source": {
+                "create_date": "2020-02-28T00:15:17",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:46",
+                "imphash": "d424b51b322beca9c4207d7e270756b9",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "13d21bb03ef9dfbf00a57078a250de5f",
+                "region": [
+                    "us"
+                ],
+                "sha1": "d9094438a6a13fbbdd7823f4856964fb94cc035c",
+                "sha256": "3e93baab383abbcf3411088b19ef36f56000f59b5b89012c607394432c33e2fe",
+                "size": 218984,
+                "ssdeep": "3072:M4QgNOd3z44KwJJrokFyF5Zat/VqGOwcklZsjy7jaOSmQvpwKRFWB9oi:MOc1ProkFyEN5OwckUOnaVlySEN",
+                "tag": [
+                    "Commodity.Sality"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2010-01-10T04:16:28"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "ff1a6a9fd7c4e5388f6d0f15534b147133a78306f4b9aba90b099259e98e96e1",
+            "_source": {
+                "create_date": "2020-02-28T00:10:47",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:36",
+                "imphash": "09d0478591d4f788cb3e5ea416c25237",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "19d7cff094c4b95db382c438bdbb1f5d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "41b96f61bb7e0e68b830051d341eb96b38a383d0",
+                "sha256": "ff1a6a9fd7c4e5388f6d0f15534b147133a78306f4b9aba90b099259e98e96e1",
+                "size": 454000,
+                "ssdeep": "6144:bTQt8/TQt8/TQt8TTQt8ITQt8/TQt8/TQt8TTQt8J:bUIUAUsUXUIUAUsUm",
+                "tag": [
+                    "Unit42.DisableUAC",
+                    "Unit42.DisableRegedit",
+                    "Unit42.DisableSystemRestore",
+                    "Unit42.ImageFileExecutionOptionsPersistence"
+                ],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-01-12T14:58:39"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "410d4ecef4f5a214bbe1aa50e1327ed6c4b46929fd411189cb9f39dfbd4c93f5",
+            "_source": {
+                "create_date": "2020-02-28T00:07:08",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:55",
+                "imphash": "3a2003ea545fe942681da9e7683ebb58",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "2d51ad0d2d87ef3c69af63f95953decd",
+                "region": [
+                    "us"
+                ],
+                "sha1": "c4e6a1fa42982468b8753509a967c385f653eeb8",
+                "sha256": "410d4ecef4f5a214bbe1aa50e1327ed6c4b46929fd411189cb9f39dfbd4c93f5",
+                "size": 404676,
+                "ssdeep": "6144:4jlYKRF/LReWAsUypMdQvr9qLqOkj5K6VSZniSm9Uals7JhsdlMIZup:4jauDReWHMKjtVSZniS57wnZi",
+                "tag": [
+                    "Commodity.Miras"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2014-02-27T06:41:59"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "db31c967bfaade7e0835aad2e1560248836724b098dd661a3e58011b761f5d45",
+            "_source": {
+                "create_date": "2020-02-28T00:20:29",
+                "filetype": "Android DEX",
+                "finish_date": "2020-02-28T00:21:20",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "1141f90533b129346b38e0bd16e28d6f",
+                "region": [
+                    "us"
+                ],
+                "sha1": "827eee2cd0e04948ee0ce389139b7fdcdc06d0ef",
+                "sha256": "db31c967bfaade7e0835aad2e1560248836724b098dd661a3e58011b761f5d45",
+                "size": 901820,
+                "tag": [
+                    "Unit42.AccessSMS"
+                ],
+                "tag_groups": [
+                    "MobileMalware"
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d2d33b35a3850f310166909099d1d49f47f7e474d5c9df0c6d349ba6abb2fd3f",
+            "_source": {
+                "create_date": "2020-02-28T00:11:33",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:08",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "6f94bcf60791cfb5399b4b128a0bf915",
+                "region": [
+                    "us"
+                ],
+                "sha1": "f0fcc6ddd5dacde46b82117d7c64dd94ad72457e",
+                "sha256": "d2d33b35a3850f310166909099d1d49f47f7e474d5c9df0c6d349ba6abb2fd3f",
+                "size": 4802242,
+                "ssdeep": "49152:JUTZA9uOnQ0oTR/hFdl5zRUEbQW8tw6otH1QLpor/Lk0cF3ft958wAZgT/RecDmP:J2ZA9UvBBbQWR3QFoL29ZuQ9xhAeJ3Dw",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "6ea26167bd22c711bc8f6cb1d856ed2ec59f1e6e05800915c701c2b8032c2044",
+            "_source": {
+                "create_date": "2020-02-28T00:12:20",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:17",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "4854b497fd5cd3b693dbbf552923751d",
+                "region": [
+                    "us"
+                ],
+                "sha1": "1b07fdaedbc64c493bc9a9502cb3152faf603a15",
+                "sha256": "6ea26167bd22c711bc8f6cb1d856ed2ec59f1e6e05800915c701c2b8032c2044",
+                "size": 1064665,
+                "ssdeep": "12288:JgV/21Jl035M2WzWO/+XkqEIbfGPFIKXe/8JN+s:JgV/C035Ngl/+XkYCmo95",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "17efbaf82a718ed80fa9a26a5badc14489755920b9706b0b334639138357f7c6",
+            "_source": {
+                "create_date": "2020-02-28T00:13:57",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:20:03",
+                "imphash": "9470ea6ce8a031743fbf1e256278f573",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "a89d6f5fcfd5afc9477dab4adddf2e7e",
+                "region": [
+                    "us"
+                ],
+                "sha1": "455412a5d889460c1f4e2dfb347000f6a1358e88",
+                "sha256": "17efbaf82a718ed80fa9a26a5badc14489755920b9706b0b334639138357f7c6",
+                "size": 44702,
+                "ssdeep": "768:UEEmoQDj/xnMp+yptndwe/PWQtOOtEvwDpjIm8lBthW4gaZrMs:ZzFbxmLPWQMOtEvwDpj38ltW4fZgs",
+                "tag": [
+                    "Unit42.Upatre"
+                ],
+                "tag_groups": [
+                    "Downloader"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-10-02T12:54:25"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "17b949262da0c8be0745b8e6d786562208653148d89d494367eccc6496088f5c",
+            "_source": {
+                "create_date": "2020-02-28T00:16:05",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:56",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "1ec4b8aa99a6fa10c9e462dc41bb80a0",
+                "region": [
+                    "us"
+                ],
+                "sha1": "6fd5c1990183a2e6d245a92a721726840ccb226a",
+                "sha256": "17b949262da0c8be0745b8e6d786562208653148d89d494367eccc6496088f5c",
+                "size": 420433,
+                "ssdeep": "12288:p1bGU143hxk9LxWvTY/iS8bG+DQ3k3m8/O/KqdsmnA:p1bj14c4TDz6h8WSqymA",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "d0329e5f96168c3b64badcffd7ee0fcce1699d122b42eea9d00fd2dd41637ac6",
+            "_source": {
+                "create_date": "2020-02-28T00:14:46",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:53",
+                "imphash": "f22e6f63ccabfaedd9ee388a627a02a4",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "57b482306619e80c1be859d499b6d489",
+                "region": [
+                    "us"
+                ],
+                "sha1": "b316effdf1c785a5f69776bfcbb2ccace9105916",
+                "sha256": "d0329e5f96168c3b64badcffd7ee0fcce1699d122b42eea9d00fd2dd41637ac6",
+                "size": 2090860,
+                "ssdeep": "12288:BDIIAN3jJQTI3szue26CFrKVguNJ+iFdGYAiY028QgzNnIrxyP2mRGL4M5XcH:18NtD3saeQFOVLN/YexIrxyiv5",
+                "tag": [],
+                "tag_groups": [],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "a80317c60d17a8f9e757bf80c1fdcad0a2e1bd3ac44f24486de291c384f0c37e",
+            "_source": {
+                "create_date": "2020-02-28T00:08:36",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:46",
+                "imphash": "9e85bc8cd0863f7512a06d6eb4c79827",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d9dce8db34d5109bee0ff8b687af8ded",
+                "region": [
+                    "us"
+                ],
+                "sha1": "bdeaa9c1c17dce8025c28231b4f3ae257ea0eadf",
+                "sha256": "a80317c60d17a8f9e757bf80c1fdcad0a2e1bd3ac44f24486de291c384f0c37e",
+                "size": 329225,
+                "ssdeep": "6144:zfwD/eHK1rGTAOfrIV/QHxOtJkkgYsGGdzK:zfwDz1+q4Hsi+",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.RunOnce",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-06-04T08:46:25"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "edfe1dd934bc0c236e34cb1a2af889785efe73fd426ede283dd9324ce35f9850",
+            "_source": {
+                "create_date": "2020-02-28T00:15:28",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:19",
+                "imphash": "5662cfcdfd9da29cb429e7528d5af81e",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "263c1d547553c5c3ce4d492d1780611c",
+                "region": [
+                    "us"
+                ],
+                "sha1": "092f103521ac89b7ed621229fa41018d77b3759a",
+                "sha256": "edfe1dd934bc0c236e34cb1a2af889785efe73fd426ede283dd9324ce35f9850",
+                "size": 769974,
+                "ssdeep": "12288:I1bt+bSXqIOvyifQb89haQUJJja3mohgJpsDF0D/dSFDruNHLKrRbiNTMHlOvNw:I1btJ65vy6Qb8OQUJd2moeps50DVgfu+",
+                "tag": [
+                    "Commodity.Wabot"
+                ],
+                "tag_groups": [
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:40:53"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "3994b1d9e577494c7bbe5ca760a83a0ca6cfc1e274a61395de61b9e01791a76d",
+            "_source": {
+                "create_date": "2020-02-28T00:13:23",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:28",
+                "imphash": "e0108c6f760b9bf79f1f3e8200481dd8",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "8c53da53ee4aa836d7559b9e38403478",
+                "region": [
+                    "us"
+                ],
+                "sha1": "ea07ff7b3041e8e6d619d0211669d1779396fd4c",
+                "sha256": "3994b1d9e577494c7bbe5ca760a83a0ca6cfc1e274a61395de61b9e01791a76d",
+                "size": 2196624,
+                "ssdeep": "49152:yxOfc8MNFH/Vph7GBfWJMV6MOkWFlPHs/oWmUBb:bcZd77GBfWJMUMOkWFlHsAWmU9",
+                "tag": [
+                    "Unit42.RenameOnReboot",
+                    "Unit42.UPXPacked",
+                    "Commodity.Xolxo"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "f48350a74ddb12d203250a9a9ba5665b55ef1733cb1efa28ca04de4288fe0c85",
+            "_source": {
+                "create_date": "2020-02-28T00:15:14",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:37",
+                "imphash": "f3e7623265f571939c34ab323aa80afe",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "8b4e9b8fa573a6848b14f25f3d9141c5",
+                "region": [
+                    "us"
+                ],
+                "sha1": "0d55a138ee0d3271233d53c60d97f26a9ff970f8",
+                "sha256": "f48350a74ddb12d203250a9a9ba5665b55ef1733cb1efa28ca04de4288fe0c85",
+                "size": 212488,
+                "ssdeep": "3072:SKrOipJrtHmipgTLyOzc9LZoHVdVEZNEFR8i2NPkgxfGTpO8+Zy2XZ1gkF+s:/rlWTLyhPOV4Nq12Z/fl8GyuZ1",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-03-15T10:09:51"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "0943a7f24aa8bc6c34411351c1a51e6928061f9a31d1d819fea38744b4acf1c5",
+            "_source": {
+                "create_date": "2020-02-28T00:13:50",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:42",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d81af8d83037752eba1d8e272c07bd04",
+                "region": [
+                    "us"
+                ],
+                "sha1": "52b5cd98cb44a99f5a91fa17785f31c516f26ee0",
+                "sha256": "0943a7f24aa8bc6c34411351c1a51e6928061f9a31d1d819fea38744b4acf1c5",
+                "size": 1133710,
+                "ssdeep": "6144:yAWkwu1AMImft7iTn56I1rFcmujywaLYDqYUnC+Vg5GCZrUZvq4AvfWQK+DU/SvL:Jz1AMylBuCxYGHqpZYgaSVZ",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "729103999efe3b5d8db72e3737c0eb7d7a4991cc0f48ac7a9747d09783b7635c",
+            "_source": {
+                "create_date": "2020-02-28T00:13:04",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:42",
+                "imphash": "e0108c6f760b9bf79f1f3e8200481dd8",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "d1618fef23dbc82033cf2bd537a990d5",
+                "region": [
+                    "us"
+                ],
+                "sha1": "a1fb265b997bbbfa408382b1314ee43dd1278326",
+                "sha256": "729103999efe3b5d8db72e3737c0eb7d7a4991cc0f48ac7a9747d09783b7635c",
+                "size": 1004122,
+                "ssdeep": "24576:yxb45l9pkQeN/7DHT9+FCIiIc4rTxWQ1xUWmULdAr:yxOb6ph7jKCIiIf/sQTUWmUBE",
+                "tag": [
+                    "Unit42.RenameOnReboot",
+                    "Unit42.UPXPacked",
+                    "Commodity.Valla",
+                    "Commodity.Xolxo"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "Worm"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "5f9b24e0d396e68a73917547e5e3dd5b1e5d3c71b4871a171a8b0e772a574e34",
+            "_source": {
+                "create_date": "2020-02-28T00:13:02",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:17",
+                "imphash": "24f20b520178eb6dffac2cdd425e3130",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "8856e2ea66c529ae07c482d3ff0b5d41",
+                "region": [
+                    "us"
+                ],
+                "sha1": "51d04c4d95de56bfa67974f42bf450fcc9f173ec",
+                "sha256": "5f9b24e0d396e68a73917547e5e3dd5b1e5d3c71b4871a171a8b0e772a574e34",
+                "size": 318985,
+                "ssdeep": "6144:hNuqUxlmr2L5/+rrB2SZ4LnnrDoX1HvRYa:JUvl+rr0SZ4brDQPRYa",
+                "tag": [
+                    "Unit42.IPAddressLookup",
+                    "Unit42.InitialSystemDataEnumeration",
+                    "Unit42.RunOnce",
+                    "Unit42.GandCrab"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2018-06-09T09:46:13"
+                    }
+                ]
+            },
+            "visible": true
+        },
+        {
+            "_id": "cde592182bd46aa31451a7bca8634c18c5dd8a057f79cbb0c0c37baf0352c8fa",
+            "_source": {
+                "create_date": "2020-02-28T00:12:41",
+                "filetype": "PE",
+                "finish_date": "2020-02-28T00:21:19",
+                "imphash": "33f98db5bdb6a7013d52f0120248df35",
+                "ispublic": 1,
+                "malware": 1,
+                "md5": "02452e6eaa743d15011050c0780fcafa",
+                "region": [
+                    "us"
+                ],
+                "sha1": "4e58b60fb091dc30cd520580f308a3e6bedcb037",
+                "sha256": "cde592182bd46aa31451a7bca8634c18c5dd8a057f79cbb0c0c37baf0352c8fa",
+                "size": 585803,
+                "ssdeep": "12288:JgV/21Jl035M2WzWO/+XkqEIbfGPFXijr:JgV/C035Ngl/+XkYCAjr",
+                "tag": [
+                    "Commodity.Sivis"
+                ],
+                "tag_groups": [
+                    "FileInfector"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2011-04-03T00:50:03"
+                    }
+                ]
+            },
+            "visible": true
+        }
+    ],
+    "took": 146937,
+    "total": 365741013
+}
